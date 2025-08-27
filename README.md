@@ -13,10 +13,10 @@ The game’s objective is to shoot the ball into the correct goal to answer heal
   - Physics System: The Rigidbody and Colliders systems in Unity were used to simulate realistic ball movement and collisions.
   -Graphics and UI: The UI System (Canvas, Text, Buttons) was used for all in-game menus, displaying questions, and managing the score.
   - Assets:
--3D Models: Player, field, ball, and obstacle models were imported from Sketchfab.
--Animations: Player animations were sourced from Mixamo and controlled via the Animator Controller.
--Sound Effects: All sound effects were downloaded from Freesound.org.
--Prefabs: The ball and arrow were made into Prefabs for easy reusability and dynamic instantiation during gameplay.
+3D Models: Player, field, ball, and obstacle models were imported from Sketchfab,
+Animations: Player animations were sourced from Mixamo and controlled via the Animator Controller,
+Sound Effects: All sound effects were downloaded from Freesound.org,
+and Prefabs: The ball and arrow were made into Prefabs for easy reusability and dynamic instantiation during gameplay.
 
 
 
