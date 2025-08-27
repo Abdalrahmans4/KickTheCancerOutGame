@@ -7,7 +7,7 @@ The game’s objective is to shoot the ball into the correct goal to answer heal
   - Scoring and Lives: A correct answer earns a point, while a wrong answer or a missed shot costs a life.
   - Progressive Difficulty: The game features three levels, with questions becoming more challenging as you advance. In the third level, moving obstacles are added to the goal to increase the difficulty of aiming.
   - Sound Effects: The game includes crowd cheers, sound effects for goals, misses, and win/loss states to enhance the player experience.
-##🛠 Technologies and Tools
+##  🛠 Technologies and Tools
  - Game Engine: Unity.
   - Programming Language: C#, used to manage game logic, UI updates, and quiz validation.
   - Physics System: The Rigidbody and Colliders systems in Unity were used to simulate realistic ball movement and collisions.
